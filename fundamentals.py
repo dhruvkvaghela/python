@@ -166,7 +166,30 @@ print(matrix[1][2])  # 6
 
 ```
 for row in matrix:
+
     for value in row:
         print(value)
 ```
+# Function
+
+def greet(name):
+    return f"Hello, {name}!"
+
+message = greet("John")
+print(message)
+
+
+# Class
+
+class Person:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+
+    def introduce(self):
+        return f"My name is {self.name} and I am {self.age} years old."
+
+
+person = Person("John", 25)
+print(person.introduce())
 
