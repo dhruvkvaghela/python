@@ -1,52 +1,29 @@
-Python Basics 🐍
+🐍 Python Learning Repository
 
-This repository contains basic Python examples for learning Numbers and Data Types.
+A collection of Python notes, examples, and practice programs created while learning and strengthening Python fundamentals.
 
-📂 Files
-Python_Numbers.py — Examples of numbers and basic mathematical operations in Python.
-Python_data.py — Examples of different Python data types.
-🔢 Python Numbers
+📂 Repository Structure
+python-learning/
+│
+├── README.md
+├── fundamentals.py
+├── data_types.py
+├── collections.py
+├── numeric_types.py
+└── pandas_data_engineering.py
 
-The Python_Numbers.py file covers basic number operations, including:
-
-Integers
-Floating-point numbers
-Addition
-Subtraction
-Multiplication
-Division
-Floor division
-Modulus
-Exponentiation
-🧩 Python Data Types
-
-The Python_data.py file demonstrates common Python data types, such as:
-
-str — String
-int — Integer
-float — Floating point number
-bool — Boolean
-list — List
-tuple — Tuple
-dict — Dictionary
-set — Set
-🚀 How to Run
-
-Make sure Python is installed on your computer.
-
-Open the project in VS Code and run either file:
-
-python Python_Numbers.py
-
-
-or:
-
-python Python_data.py
-
+📖 Contents
+File	Description
+fundamentals.py	Core Python fundamentals and programming concepts
+data_types.py	Python data types and type-related operations
+collections.py	Python collection data structures and their usage
+numeric_types.py	Numbers and numerical operations in Python
+pandas_data_engineering.py	Practical Pandas examples for working with structured data
+🛠️ Technologies
+Python
+Pandas
 🎯 Purpose
 
-This project is created for practicing the basics of Python programming and understanding numbers and data types.
+This repository is used to practice Python through hands-on examples and organized code, keeping each concept in a separate file for easy reference.
 
-📚 Learning
-
-This is part of my Python learning journey. More Python topics will be added as I continue learning.
+Built with 🐍 Python
