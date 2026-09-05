@@ -27,3 +27,9 @@ Pandas
 This repository is used to practice Python through hands-on examples and organized code, keeping each concept in a separate file for easy reference.
 
 Built with 🐍 Python
+
+<img width="1254" height="1254" alt="python" src="https://github.com/user-attachments/assets/fe1adf6c-525d-4b28-b70c-f3457d0a4625" />
+
+
+
+
